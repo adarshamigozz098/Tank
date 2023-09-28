@@ -1,0 +1,199 @@
+body{
+    padding: 0;
+    margin: 0;
+   
+}
+.s-1{
+    display: flex;
+   position:fixed;
+   background-color: white;
+   width: 100%;
+   padding: 40px;
+}
+.s-2{
+   
+    display: flex;
+    width: 119px;
+  
+}
+.s-3{
+    margin-left: 48%;
+    text-indent: 37px;
+    display: flex;
+    font-size: 12px;
+ 
+}
+.s-3 a{
+    text-decoration: none;
+}
+
+.Home{
+    height: 100vh;
+    width: 100%;
+    margin-top: 40px;
+}
+.h-1{
+    text-align: center;
+
+}
+.h-2{
+    text-align: center;
+
+}
+.fruits{
+     display: flex;
+    justify-content: space-around
+}
+
+.s{
+    height: auto;
+    width: 250px;
+}
+.img-1{
+    height: auto;
+    width: 250px;
+    border-radius: 10px;
+}
+.h-1{
+    display: flex;
+    justify-content: center;
+}
+.a2{
+    display: flex;
+    justify-content: center;
+
+
+
+}
+.jjj-1{
+    margin-left: 530px;
+    height: 85vh;
+}
+.dd{
+width: 50%;
+
+
+}
+.body-div{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.ph h1{
+    font-size: 40px;
+    margin-inline: -40px;
+
+}
+.ph p{
+    
+    margin-inline: -45px;
+    font-size: 17px;
+}
+.ph button{
+    color: white;
+    margin-inline: -45px;
+    font-size: 17px;
+    background-color: #ff6100;
+
+}
+.last{
+    color: white;
+}
+.right-div{
+    overflow: hidden;
+    width: 130vh;
+    height: fit-content;
+    
+}
+
+
+.left-div{
+    height: 60%;
+    width: 60%;
+    margin-top: 262px;
+}
+.left-div h1{
+    margin-inline: 155px;
+    font-size: 32px;
+
+}
+.left-div p{
+    margin-inline: 157px;
+}
+.left-div button{
+    margin-inline: 150px;
+    font-size: 40px;
+    color: white;
+    background-color: #ff6100;
+}
+
+.bodyy-div{
+display: flex;
+
+}
+.photo{
+    height: 50%;
+    width: 70%;
+    margin-top: 150px;
+    margin-left: -204px;
+}
+.ph{
+    margin-left:210px;
+    margin-top:300px;
+}
+.last{
+    text-align: center;
+    background-color:#ea6212;
+    height: 105px;
+    padding: 195px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+     width: 100%;
+     height: 650px;
+     background-color: black;
+
+}
+.footer li{
+    list-style-type: none;
+}
+
+.columnA {
+    margin-top: 280px;
+    margin-left: 50px;
+    color: white;
+    
+}
+
+
+
+.columnB{
+    color: white;
+    margin-top: 280px;
+    margin-left: -18px;
+}
+
+
+.columnC{
+   color: white;
+   margin-top: 280px;
+   margin-left: 35px;  
+}
+.columnD{
+    color: white;
+    margin-top: 229px;
+    padding: 48px;
+    
+}
+
+.end{
+    color: white;
+    text-align: center;
+    margin-top: -117px;
+    color: white;
+    font-size: 15px;
+}
+
+
+
